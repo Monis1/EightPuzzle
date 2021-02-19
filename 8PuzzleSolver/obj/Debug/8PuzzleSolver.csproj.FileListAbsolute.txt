@@ -1,6 +1,0 @@
-c:\users\monis\documents\visual studio 2013\Projects\8PuzzleSolver\8PuzzleSolver\bin\Debug\8PuzzleSolver.exe.config
-c:\users\monis\documents\visual studio 2013\Projects\8PuzzleSolver\8PuzzleSolver\obj\Debug\8PuzzleSolver.csprojResolveAssemblyReference.cache
-c:\users\monis\documents\visual studio 2013\Projects\8PuzzleSolver\8PuzzleSolver\bin\Debug\8PuzzleSolver.exe
-c:\users\monis\documents\visual studio 2013\Projects\8PuzzleSolver\8PuzzleSolver\bin\Debug\8PuzzleSolver.pdb
-c:\users\monis\documents\visual studio 2013\Projects\8PuzzleSolver\8PuzzleSolver\obj\Debug\8PuzzleSolver.exe
-c:\users\monis\documents\visual studio 2013\Projects\8PuzzleSolver\8PuzzleSolver\obj\Debug\8PuzzleSolver.pdb
